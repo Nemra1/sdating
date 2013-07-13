@@ -1,0 +1,14 @@
+.gift_list .item {
+	width: 92px;
+	text-align: center;
+	float: left;
+	height: 100px;
+	overflow: hidden;
+}
+
+.profile_gift_list .no_content {
+	padding-top: 120px;
+	background: url(http://dev.local/ska/layout/themes/gold2/img/gift_example.jpg) no-repeat center 10px;
+	min-height: 15px;
+}
+

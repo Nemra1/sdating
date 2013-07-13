@@ -1,0 +1,32 @@
+.page_header {
+	background: transparent url(http://dev.local/ska/layout/img/header_bg.jpg) no-repeat 50% 0px;
+	background-image: none;
+	margin: 10px auto 0px;
+	height: 100px;
+	width: 830px;
+}
+
+.logo {
+	display: block;
+	height: 68px;
+	background: url(http://dev.local/ska/layout/themes/gold2/img/logo.png) no-repeat 0px 0px;
+	width: 500px;
+}
+
+.page_header, header_line {
+	width: auto;
+	margin: 0px;
+	min-height: 100px;
+	height: auto;
+}
+
+.header_line {
+	width: 1000px;
+	margin: 0px auto 22px;
+	padding-top: 22px;
+}
+
+.page_header .float_right {
+	width: 30%;
+}
+

@@ -1,0 +1,18 @@
+.submenu {
+	border-bottom: 1px solid #EEEEEE;
+	font-size: 11px;
+	padding: 10px 0;
+	text-align: center;
+}
+
+.submenu_wrap {
+	background: transparent url(http://dev.local/ska/layout/themes/gold2/img/submenu.png) repeat-x top left;
+}
+
+.submenu_wrap .submenu {
+	width: 1000px;
+	margin: 0px auto;
+	border: none;
+	padding: 0px;
+}
+

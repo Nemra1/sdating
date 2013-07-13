@@ -1,0 +1,13 @@
+.menu-vertical a.active {
+	font-weight: bold;
+}
+
+ul.menu-vertical li {
+	list-style-type: disc;
+}
+
+.my_profile_menu_cont ul.menu-vertical li a.active {
+	font-weight: normal;
+	color: #ae6800;
+}
+

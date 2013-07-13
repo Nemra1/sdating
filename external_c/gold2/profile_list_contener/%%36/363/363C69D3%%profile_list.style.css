@@ -1,0 +1,351 @@
+.gallery_cont, .gallery_cont_third {
+	float: left;
+	margin-bottom: 10px;
+	margin-right: 4px;
+	text-align: left;
+	width: 261px;
+}
+
+.gallery_cont_third {
+	margin-right: 0;
+}
+
+.membership_icon {
+	margin: 0px 6px 0px 0px;
+	display: inline;
+	vertical-align: top;
+	height: 29px;
+	margin-top: 0px;
+}
+
+.profile_list_thumb {
+	float: left;
+	margin-right: -100px;
+	padding-right: 5px;
+	text-align: center;
+	width: 100px;
+}
+
+.profile_activity, .profile_activity_gallery {
+	font-size: 11px;
+	padding: 3px 0;
+}
+
+.profile_activity_gallery {
+	padding-top: 3px;
+	height: auto;
+	line-height: 11px;
+	padding: 0px;
+	margin: 0px;
+	font-size: 10px;
+	position: absolute;
+	bottom: -2px;
+}
+
+.profile_list_info {
+	margin-left: 100px;
+	padding-left: 5px;
+}
+
+.details_cont .profile_list_info {
+	margin-right: 145px;
+	max-height: 167px;
+	overflow-y: hidden;
+	padding-left: 11px;
+}
+
+.list_menu {
+}
+
+.list_menu a {
+	display: block;
+	font-size: 11px;
+	margin-bottom: 1px;
+	padding: 3px 3px 3px 20px;
+	text-decoration: none;
+}
+
+.list_menu .block_profile {
+	background: url(http://dev.local/ska/layout/img/block_list.png) no-repeat scroll center left;
+	margin: 0px!important;
+	padding: 0px!important;
+}
+
+.list_menu .unblock_profile {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/unblock.png) no-repeat scroll center left;
+	margin: 0px!important;
+	padding: 0px!important;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/unblock_profile.png);
+}
+
+.list_menu .bookmark, .list_menu .unbookmark, .list_menu .speed_dating_unbookmark {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/bookmarks.png) no-repeat scroll center left;
+}
+
+.list_menu .send_friend_request, .list_menu .sent_friend_requests, .list_menu .remove_friend {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/friend_request.png) no-repeat scroll center left;
+}
+
+.list_menu .cancel_request {
+	background: url(http://dev.local/ska/layout/img/msg_icon.png) no-repeat scroll 3px 4px;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/cancel_request.png);
+	background-position: 0px 3px;
+}
+
+.list_menu .accept {
+	background: url(http://dev.local/ska/layout/img/topic_check.png) no-repeat scroll center left;
+}
+
+.list_menu .decline {
+	background: url(http://dev.local/ska/layout/img/block_list.png) no-repeat scroll center left;
+}
+
+.list_menu .block_group_profile {
+	background: url(http://dev.local/ska/layout/img/topic_block.png) no-repeat scroll center left;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/block.png);
+}
+
+.list_menu .delete_group_profile {
+	background: url(http://dev.local/ska/layout/img/block_list.png) no-repeat scroll center left;
+}
+
+.list_menu .unblock_group_profile {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/unblock.png) no-repeat scroll center left;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/unblock.png);
+}
+
+.list_menu .accept_claim {
+	background: url(http://dev.local/ska/layout/img/topic_check.png) no-repeat scroll center left;
+}
+
+.list_menu .decline_claim {
+	background: url(http://dev.local/ska/layout/img/block_list.png) no-repeat scroll center left;
+}
+
+.list_menu .newsfeed_follow, .list_menu .newsfeed_unfollow {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/follow.png) no-repeat scroll center left;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/follow.png);
+}
+
+.list_menu .send_gift {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/virtual_gift.png) no-repeat scroll center left;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/virtual_gift.png);
+}
+
+.list_menu .fm_mark {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/my_matches.png) no-repeat scroll center left;
+}
+
+.change_vm_cont {
+	padding-bottom: 5px;
+	text-align: center;
+	float: right;
+	background: url(http://dev.local/ska/layout/themes/gold2/img/menu_block_bg.png) repeat-x 0px 0px;
+	padding-right: 6px;
+	line-height: 25px;
+}
+
+.gall_location_cont {
+	font-size: 11px;
+	height: 30px;
+}
+
+.gallery_cont_third .block, .gallery_cont .block {
+	margin-bottom: 0;
+}
+
+.details_cont .block {
+	margin-bottom: 5px;
+}
+
+.ref_menu {
+	float: right;
+	margin-left: 0;
+	width: 145px;
+}
+
+.loc_value {
+	height: 5em;
+	overflow: hidden;
+}
+
+.list_menu .bookmark, .list_menu .unbookmark, .list_menu .speed_dating_unbookmark, .list_menu .send_friend_request, .list_menu .sent_friend_requests, .list_menu .remove_friend, .list_menu .block_profile, .list_menu .unblock_profile, .list_menu .cancel_request, .list_menu .accept, .list_menu .decline {
+	background-color: transparent;
+}
+
+.gallery_cont {
+	margin-right: 9px;
+}
+
+.gallery_cont .block_body, .gallery_cont_third .block_body {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.gallery_cont .block_cap_c, .gallery_cont_third .block_cap_c {
+	padding: 0px;
+	min-height: 6px;
+	font-size: 6px;
+	line-height: 6px;
+}
+
+.gallery_cont .profile_list_info, .gallery_cont_third .profile_list_info {
+	font-size: 11px;
+	position: relative;
+	min-height: 130px;
+	margin-left: 89px;
+}
+
+.pgal_name {
+	font-size: 16px;
+	color: #164776;
+	font-weight: bold;
+	margin: 0px 0px 5px;
+}
+
+.gallery_cont .loc_value, .gallery_cont_third .loc_value {
+	height: 7em;
+	margin-top: 5px;
+}
+
+.gallery_cont .profile_list_thumb, .gallery_cont_third .profile_list_thumb {
+	width: 85px;
+}
+
+.change_vm_cont a {
+	background: url(http://dev.local/ska/layout/img/menu_block_tail_2.png) no-repeat 0px 0px;
+	padding-left: 6px;
+	display: block;
+	font-size: 11px;
+}
+
+.change_vm_cont a:hover {
+	text-decoration: none;
+}
+
+.details_cont .list_menu a {
+	white-space: nowrap;
+}
+
+.paging {
+	float: left;
+	width: 70%;
+}
+
+.search_menu_wrap {
+	padding: 6px 0px;
+}
+
+.search_menu {
+	background: transparent none;
+	line-height: 25px;
+	height: 25px;
+}
+
+.search_menu a {
+	color: #cfbc70;
+}
+
+.search_menu a:hover {
+	color: #ffce06;
+}
+
+.search_menu td {
+	padding: 0px;
+}
+
+.refine_search {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/menu_block_tail_l.png) no-repeat top left;
+	padding: 0px 6px;
+	display: block;
+	font-size: 11px;
+}
+
+.search_menu .save_search {
+	border-left: 1px solid #efc98c;
+	background: url(http://dev.local/ska/layout/themes/gold2/img/menu_block_tail_r.png) no-repeat top right;
+	padding: 0px 6px;
+}
+
+.save_search a {
+	font-size: 11px;
+}
+
+.saved_lists, .saved_lists .block {
+	margin: 0px;
+}
+
+.save_search a:hover, .refine_search:hover {
+	text-decoration: none;
+}
+
+.saved_lists .block_cap {
+	line-height: 18px;
+}
+
+.saved_lists .block_cap_title {
+	width: 160px;
+	font-size: 14px;
+}
+
+.list_menu .remove_friend {
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/remove_friend.png);
+}
+
+.list_menu .accept, .list_menu .accept_claim {
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/accept.png);
+}
+
+.list_menu .block_profile, .list_menu .decline, .list_menu .delete_group_profile, .list_menu .decline_claim {
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/decline.png);
+}
+
+.profile_list_contener {
+	margin-top: 10px;
+	padding-bottom: 1px;
+}
+
+.pl_status {
+	width: 310px;
+	padding: 0px 9px 0px 22px;
+	height: 35px;
+	line-height: 33px;
+	overflow: hidden;
+	background: url(http://dev.local/ska/layout/themes/gold2/img/status_bg.png) no-repeat 3px 0px;
+	font-size: 12px;
+	margin: 10px 0px;
+	color: #112851;
+}
+
+.pdet_name {
+	font-weight: bold;
+	float: left;
+	margin-right: 3%;
+}
+
+.pdet_sex {
+	float: left;
+	margin-right: 3px;
+}
+
+.pdet_age {
+	float: left;
+	margin-right: 3px;
+}
+
+.pdet_loc_value {
+	float: left;
+}
+
+.pdet_info {
+	padding: 0px 0px 5px 15px;
+}
+
+.pdet_info .clr_div {
+	padding: 5px 0px 0px;
+}
+
+.search_result_count .total_count_results {
+	padding: 10px 14px;
+}
+

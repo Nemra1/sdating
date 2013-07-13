@@ -1,0 +1,192 @@
+.thumb_container {
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	background: none;
+}
+
+.links {
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+.open_list_btn {
+}
+
+.my_profile_cap {
+	cursor: pointer;
+}
+
+.new_items a {
+	display: block;
+	float: left;
+	text-align: center;
+	width: 58px;
+	padding: 0px 0px 15px;
+	margin: 0px;
+	overflow: hidden;
+	background: none;
+	font-size: 11px;
+	color: #372300;
+}
+
+.new_items a:hover {
+	background: transparent;
+}
+
+.new_items a div {
+	width: 100%;
+	height: 40px;
+	padding-bottom: 8px;
+}
+
+.new_items .photo {
+	background: url(http://dev.local/ska/layout/img/photo.png) no-repeat center;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/add_ico_photo.png);
+	background-position: center center;
+}
+
+.new_items .blog {
+	background: url(http://dev.local/ska/layout/img/blog.png) no-repeat center;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/add_ico_blog.png);
+	background-position: center center;
+}
+
+.new_items .event {
+	background: url(http://dev.local/ska/layout/img/event.png) no-repeat center;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/add_ico_event.png);
+	background-position: center center;
+}
+
+.new_items .video {
+	background: url(http://dev.local/ska/layout/img/video.png) no-repeat center;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/add_ico_video.png);
+	background-position: center center;
+}
+
+.new_items .invite_friend {
+	background: url(http://dev.local/ska/layout/img/invite_friend.png) no-repeat center;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/add_ico_invite.png);
+	background-position: center center;
+}
+
+.new_items .forum {
+	background: url(http://dev.local/ska/layout/img/forum.png) no-repeat center;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/add_ico_forum.png);
+	background-position: center center;
+}
+
+.links .mailbox {
+	margin-left: auto;
+	width: 45px;
+	height: 25px;
+	background: url(http://dev.local/ska/layout/img/mailbox.png) center no-repeat;
+}
+
+.membership_container {
+	margin-top: 5px;
+	padding: 3px 0 10px;
+	font-weight: bold;
+}
+
+.membership_container img {
+	vertical-align: middle;
+}
+
+.member_console .profile_thumb_wrapper {
+	display: block;
+	padding: 0px 0px 10px 0px;
+}
+
+html body .delete_thumb {
+	display: block;
+	padding: 0 0 3px;
+	font-size: 10px;
+}
+
+.member_console .sign_out {
+	background: #f1a800 url(http://dev.local/ska/layout/themes/gold2/img/button.gif) repeat-x left top;
+	border-style: solid;
+	border-width: 1px;
+	border-top-color: #fffe75;
+	border-bottom-color: #ee9e02;
+	border-left-color: #f9bc1b;
+	border-right-color: #f9bc1b;
+	color: #6e3a00;
+	font-weight: lighter;
+	font-size: 14px;
+	display: block;
+	padding: 7px 18px 5px 18px;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	font-family: "Ubuntu", Arial;
+}
+
+.member_console .sign_out:hover {
+	background-color: #f5c100;
+	border-top-color: #fffe75;
+	border-bottom-color: #ed9e02;
+	border-left-color: #f9b917;
+	border-right-color: #f9b917;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/button_hover.gif);
+	text-decoration: none;
+}
+
+.my_profile_menu .block_body {
+	padding: 0px 14px 10px;
+}
+
+.my_profile_menu_cont ul.menu-vertical {
+	padding: 0px;
+}
+
+.my_profile_menu_cont ul.menu-vertical li {
+	list-style-type: none;
+	float: left;
+	width: 160px;
+}
+
+.my_profile_menu_cont ul.menu-vertical li a {
+	display: inline-block;
+	line-height: 17px;
+	text-decoration: none;
+	margin-left: 22px;
+}
+
+.my_profile_menu_cont ul.menu-vertical li a:hover {
+	text-decoration: underline;
+}
+
+.my_profile_menu_cont .icon_profile_view {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/member_ico_myprofile.png) no-repeat 2px 6px;
+}
+
+.my_profile_menu_cont .icon_profile_edit {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/member_ico_eprofile.png) no-repeat 1px 4px;
+}
+
+.my_profile_menu_cont .icon_photo_upload {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/member_ico_myphoto.png) no-repeat 1px 3px;
+}
+
+.my_profile_menu_cont .icon_my_music {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/member_ico_mymusic.png) no-repeat 3px 4px;
+}
+
+.my_profile_menu_cont .icon_my_video {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/member_ico_myvideo.png) no-repeat 2px 2px;
+}
+
+.my_profile_menu_cont .icon_manage_blog {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/member_ico_myblog.png) no-repeat 0px 4px;
+}
+
+.my_profile_menu_cont .icon_recorder {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/member_ico_recorder.png) no-repeat 0px 4px;
+}
+
+ul.menu-vertical li.item {
+	padding: 3px 0 0;
+}
+

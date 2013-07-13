@@ -1,0 +1,105 @@
+.memhome_link {
+	float: left;
+	padding: 0 0 10px;
+	width: 49%;
+	font-size: 11px;
+	color: #372300;
+}
+
+.my_match, .birthdate, .block_list, .new_members, .bookmarks, .friend-list, .location, .who_view, .moderator, .my_groups, .mailbox, .speed_dating, .bookmark_me {
+	padding-left: 22px;
+	font-size: 13px;
+}
+
+.my_match {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/my_matches.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_mymatches.png);
+	background-position: -1px 0px;
+}
+
+.birthdate {
+	background: url(http://dev.local/ska/layout/img/birthday.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_birth.png);
+	background-position: -1px -2px;
+}
+
+.block_list {
+	background: url(http://dev.local/ska/layout/img/block_list.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_blocked.png);
+	background-position: -1px -1px;
+}
+
+.new_members {
+	background: url(http://dev.local/ska/layout/img/new_member.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_new.png);
+	background-position: -1px -1px;
+}
+
+.bookmarks {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/bookmarks.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_bookmarks.png);
+	background-position: -1px -1px;
+}
+
+.speed_dating {
+	background: url(http://dev.local/ska/layout/img/speed_dating.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_speed.png);
+	background-position: 0px 0px;
+}
+
+.friend-list {
+	background: url(http://dev.local/ska/layout/img/friends.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_myfriends.png);
+	background-position: -1px -1px;
+}
+
+.location {
+	background: url(http://dev.local/ska/layout/img/neighbourhood.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_myneigh.png);
+	background-position: -1px -1px;
+}
+
+.who_view {
+	background: url(http://dev.local/ska/layout/img/eye.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_who.png);
+	background-position: -1px 1px;
+}
+
+.moderator {
+	background: url(http://dev.local/ska/layout/img/star_medal.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_moder.png);
+	background-position: 2px 0px;
+}
+
+.my_groups {
+	background: url(http://dev.local/ska/layout/img/my_groups.png) no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_groups.png);
+	background-position: -1px -1px;
+}
+
+.mailbox {
+	background: url(http://dev.local/ska/layout/img/small_mailbox.png) no-repeat scroll 0 3px;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/mhome_mailbox.png);
+	background-position: -1px 0px;
+}
+
+.bookmark_me {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/mhome_bookmark_me.png) 0 0 no-repeat;
+}
+
+.memberhome_hrefs_cont .block_body {
+	padding: 0px 14px 0px;
+}
+
+.memhome_link a {
+	font-size: 11px;
+	line-height: 15px;
+	display: inline-block;
+	text-decoration: none;
+	padding-bottom: 2px;
+}
+
+.memhome_link a:hover {
+	text-decoration: underline;
+}
+

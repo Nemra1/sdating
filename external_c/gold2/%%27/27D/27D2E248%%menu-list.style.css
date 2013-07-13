@@ -1,0 +1,51 @@
+.menu-list a:hover, .menu-list a.active {
+	background: #F0F0F0 none repeat scroll 0 0;
+	text-decoration: none;
+}
+
+.menu-list a {
+	margin-right: 0px;
+	padding: 0px 12px;
+	text-decoration: underline;
+	font-family: "Ubuntu", Arial;
+	font-weight: lighter;
+}
+
+.menu-list li {
+	list-style: none;
+	display: inline;
+}
+
+ul.menu-list {
+	padding: 9px 0;
+}
+
+ul.menu-list li.item {
+	margin-bottom: 0;
+	padding: 0;
+	line-height: 30px;
+	white-space: nowrap;
+}
+
+.menu-list a, .menu-list a:hover {
+	color: #f4e8d0;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: normal;
+	background: none;
+}
+
+.menu-list a:hover {
+	color: #ffce06;
+}
+
+.menu-list a.active, .menu-list a.active:hover {
+	background: none;
+	font-weight: normal;
+	color: #ffce06;
+}
+
+.menu-list a:hover, .menu-list a.active:hover {
+	text-decoration: underline ;
+}
+

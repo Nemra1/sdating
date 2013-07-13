@@ -1,0 +1,36 @@
+.hot_even {
+	padding: 2px 0 2px 0;
+	width: 70px;
+}
+
+.hot_odd {
+	padding: 2px 0 2px 4px;
+	width: 70px;
+}
+
+.hot_list .profile_thumb_wrapper {
+	display: inline-block;
+	height: 78px;
+	overflow: hidden;
+}
+
+.hot_list .block_body {
+	padding-left: 11px;
+}
+
+.hot_list .profile_thumb {
+	width: 78px;
+}
+
+.hot_list .hot_odd {
+	padding-left: 7px;
+}
+
+.hot_even, .hot_odd {
+	width: 78px;
+}
+
+.hotlist_items {
+	padding-bottom: 10px;
+}
+

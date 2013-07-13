@@ -1,0 +1,105 @@
+ul.menu-tabs {
+	background: transparent url(http://dev.local/ska/layout/themes/gold2/img/menu.png) repeat-x 0px 0px;
+	min-height: 25px;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	background-image: none;
+}
+
+ul.menu-tabs li.tab {
+	display: inline;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	vertical-align: top;
+}
+
+ul.menu-tabs li.tab a {
+	background: transparent url(http://dev.local/ska/external_c/gold2/0-0-10-27/%25%250A/0A4/0A4B06D2%25%25tab.png) no-repeat left top;
+	color: #fffcc0;
+	font-size: 13px;
+	font-weight: lighter;
+	text-transform: uppercase;
+	font-family: "Ubuntu", Arial;
+}
+
+ul.menu-tabs li.tab a:hover, ul.menu-tabs li.tab a:active {
+	background: transparent url(http://dev.local/ska/external_c/gold2/0-0-10-28/%25%2536/364/3645508A%25%25tab-hover.png) no-repeat left top;
+	color: #220001;
+	text-decoration: none;
+}
+
+ul.menu-tabs li.tab a.active {
+	background: transparent url(http://dev.local/ska/external_c/gold2/0-0-10-28/%25%25CB/CB3/CB31E723%25%25tab-active.png) no-repeat left top;
+	color: #220001;
+	text-decoration: none;
+}
+
+ul.menu-tabs li.tab a span {
+	background: transparent url(http://dev.local/ska/layout/img/tab.png) no-repeat right top;
+	border-right: none;
+}
+
+ul.menu-tabs li.tab a:hover span, ul.menu-tabs li.tab a:active span {
+	background: transparent url(http://dev.local/ska/layout/img/tab-hover.png) no-repeat right top;
+}
+
+ul.menu-tabs li.tab a.active span {
+	background: transparent url(http://dev.local/ska/layout/img/tab-active.png) no-repeat right top;
+}
+
+*+html ul.menu-tabs li.tab a {
+	padding-top: 0px;
+}
+
+.main_menu ul.menu-tabs {
+	line-height: normal;
+	height: auto;
+	min-height: 30px;
+	padding: 24px 0;
+}
+
+.main_menu ul.menu-tabs li.tab a {
+	padding: 0px 0px 0px 11px;
+	line-height: 0px;
+	display: inline-block;
+	vertical-align: top;
+	height: 40px;
+	margin-right: 3px;
+}
+
+.main_menu ul.menu-tabs li.tab a span {
+	padding: 0px 11px 0px 0px;
+	display: inline-block;
+	cursor: pointer;
+	line-height: 40px;
+}
+
+.main_menu_wrap {
+	background: transparent url(http://dev.local/ska/layout/themes/gold2/img/menu.png) repeat-x 0px 0px;
+	min-width: 1000px;
+}
+
+.main_menu {
+	width: 1000px;
+	margin: 0px auto;
+}
+
+ul.menu-tabs li.last a span {
+	border-right: none;
+}
+
+ul.menu-tabs li.tab a, ul.menu-tabs li.tab a span, ul.menu-tabs li.tab a.active span, ul.menu-tabs li.tab a:hover span, ul.menu-tabs li.tab a:active span {
+	background: none;
+}
+
+ul.menu-tabs li.tab a.active, ul.menu-tabs li.tab a:hover {
+	color: #ffce06;
+	background: url(http://dev.local/ska/layout/themes/gold2/img/menu_tabs_l.png) no-repeat 0px 0px;
+}
+
+.main_menu ul.menu-tabs li.tab a.active span, .main_menu ul.menu-tabs li.tab a:hover span {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/menu_tabs_r.png) no-repeat right 0px;
+}
+

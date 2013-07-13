@@ -1,0 +1,23 @@
+.link_container {
+	background-color: #f0f0f0;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 13px;
+	text-align: center;
+	background: transparent;
+}
+
+.sign_up_link .block_cap_c {
+	min-height: 6px;
+	padding: 0px;
+}
+
+.sign_up_link .block_cap_c br {
+	height: 1px;
+	line-height: 1px;
+}
+
+.sign_up_link .block_body {
+	padding: 0px;
+}
+

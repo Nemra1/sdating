@@ -1,0 +1,18 @@
+.inventory_line {
+	margin: 0px auto;
+	padding: 0px;
+	font-size: 11px;
+	width: 1000px;
+}
+
+.inventory_line a {
+	text-align: center;
+	color: #220001;
+}
+
+.inventory_line_wrap {
+	background: url(http://dev.local/ska/layout/themes/gold2/img/inventory_line_bg.png) repeat-x 0 0;
+	padding-bottom: 7px;
+	height: 32px;
+}
+

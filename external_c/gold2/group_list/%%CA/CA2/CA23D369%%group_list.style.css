@@ -1,0 +1,38 @@
+.group_cont {
+	width: 49%;
+	float: left;
+	margin-bottom: 7px;
+	height: auto;
+}
+
+.group_thumb {
+	float: left;
+	width: 90px;
+	margin-right: -90px;
+}
+
+.group_info {
+	float: left;
+	margin-left: 100px;
+	width: 74%;
+	overflow: hidden;
+}
+
+.group_descr {
+	height: 50px;
+	overflow: hidden;
+}
+
+.group_odd {
+	margin-right: 8px;
+	width: 50%;
+}
+
+.group_stat {
+	padding-top: 5px;
+}
+
+.group_cont .block, .group_cont.group_odd .block {
+	margin: 0px;
+}
+

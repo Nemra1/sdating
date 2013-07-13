@@ -1,0 +1,96 @@
+.prototype_node {
+	display: none;
+}
+
+table.form td.label {
+	width: 40%;
+}
+
+table.form td.value {
+	width: 60%;
+}
+
+.contact_list table {
+	font-size: 11px;
+}
+
+.contact_list table td.label {
+	width: 50%;
+}
+
+.contact_list table td.value {
+	width: 40%;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.contact_list .list_items_cont {
+	overflow: auto;
+	height: 200px;
+}
+
+.contact_list .block_expand {
+	float: right;
+	width: 19px;
+	height: 19px;
+	margin: 0px;
+	background-repeat: no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/block_collapse.png);
+}
+
+.contact_list .block_collapse {
+	float: right;
+	width: 19px;
+	height: 19px;
+	margin: 0px;
+	background-repeat: no-repeat;
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/block_expand.png);
+}
+
+.list_odd {
+	background-color: #f0f0f0;
+}
+
+.preloader {
+	background-image: url(http://dev.local/ska/layout/themes/gold2/img/loading.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 98%;
+	position: absolute;
+}
+
+.check_all {
+	padding-top: 5px;
+	padding-left: 1px;
+	margin-bottom: 2px;
+}
+
+#fbib {
+	border: none;
+	background: #3B5998 url(http://dev.local/ska/layout/img/FacebookIcon.gif) 1px 0 no-repeat;
+	padding-left: 18px;
+	color: #fff;
+	cursor: pointer;
+}
+
+table.form td.check {
+	border-color: #856c4a;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+.fb_float_right {
+	float: right;
+}
+
+.invite_form_cont  .block_body form p {
+	padding-bottom: 5px;
+}
+
+.invite_form_cont  .block_body form p label {
+	display: block;
+	padding-bottom: 5px;
+}
+
